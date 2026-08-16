@@ -1,0 +1,8 @@
+{
+  "name": "Remix GOLD 2",
+  "description": "Elite institutional-grade sniper scalping intelligence platform for Spot Gold (XAU/USD). Powered by live Deriv tick data, Smart Money Concepts, and real-time AI market analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
